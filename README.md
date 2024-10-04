@@ -20,5 +20,4 @@ I'm a college student from Taiwan diving deep into the world of **Artificial Int
 
 Feel free to check out my projects and let's connect if you find our interests align! ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:wangyuehua408@gmail.com)
