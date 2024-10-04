@@ -1,4 +1,4 @@
-# Hi there, I'm Squirrel0408! 👋
+# Hi there, I'm Squirrel0408! 👋🏻
 
 I'm a college student from Taiwan diving deep into the world of **Artificial Intelligence**. My interests span across:
 
@@ -16,7 +16,7 @@ I'm a college student from Taiwan diving deep into the world of **Artificial Int
 
 ### Fun Facts & Goals 🚀
 - I believe in lifelong learning and pushing my limits one project at a time.
-- I'm interested in collaborating on **open source AI projects** or **innovative research**.
+- Pursuing a master's degree to deepen my expertise in **AI** and improve my research skills.
 
 Feel free to check out my projects and let's connect if you find our interests align! ✨
 
