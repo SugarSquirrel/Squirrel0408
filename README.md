@@ -9,15 +9,15 @@ I'm a college student from Taiwan diving deep into the world of **Artificial Int
 ### 🚀 Collaboration Repositories:
 - [SITCON Hackathon 2024 - Taipei-City-Dashboard](https://github.com/angelalin000/Taipei-City-Dashboard.git)
 
-### Tech Stack 💻
+### 💻 Tech Stack
 - **Languages**: Python, C/C++, Java
 - **Frameworks**: PyTorch
 - **Tools**: Jupyter, Docker
 
-### What I'm Working On 🌱
+### 🌱 What I'm Working On
 - **AI Projects**: Exploring new ways to apply reinforcement learning in computer vision tasks.
 
-### Fun Facts & Goals 🚀
+### 📌 Fun Facts & Goals
 - I believe in lifelong learning and pushing my limits one project at a time.
 - Pursuing a master's degree to deepen my expertise in **AI** and improve my research skills.
 
