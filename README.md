@@ -7,7 +7,7 @@ I'm a college student from Taiwan diving deep into the world of **Artificial Int
 - **Computer Vision** 👁️
 
 ### 🚀 Collaboration Repositories:
-- [SITCON Hackathon 2024 - Taipei-City-Dashboard]([https://github.com/owner/repository1](https://github.com/angelalin000/Taipei-City-Dashboard.git))
+- [SITCON Hackathon 2024 - Taipei-City-Dashboard](https://github.com/angelalin000/Taipei-City-Dashboard.git)
 
 ### Tech Stack 💻
 - **Languages**: Python, C/C++, Java
