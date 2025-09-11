@@ -1,6 +1,6 @@
 # Hi there, I'm Squirrel0408! 👋🏻
 
-I'm a college student from Taiwan diving deep into the world of **Artificial Intelligence**. My interests span across:
+I'm a graduate student from Taiwan diving deep into the world of **Artificial Intelligence**. My interests span across:
 
 - **Deep Learning** 🧠
 - **Reinforcement Learning** 🤖
